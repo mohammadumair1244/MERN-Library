@@ -20,6 +20,7 @@ import { getAnalytics } from "firebase/analytics";
 //     appId: "1:981387367278:web:205c2536b8a99f14b8677f"
   
 //   };
+//Final Project Running
 
 const firebaseConfig = {
   apiKey: "AIzaSyAZ04XLA2leFXjK9CXsCShY6qBG6XZT_Lk",
